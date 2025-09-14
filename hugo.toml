@@ -1,0 +1,22 @@
+baseURL = 'https://robertovers.github.io/'
+languageCode = 'en-us'
+title = 'Robert Overs'
+
+[params.welcome]
+greeting = "Software / Data Engineer."
+message = "Currently building a better world of work at <a href='https://www.cultureamp.com/' style='color: #ae67b1' target='_blank'>Culture Amp</a>."
+
+[params.location]
+timezone = "Australia/Melbourne"
+latitude = -37.8136
+longitude = 144.9631
+locale = "en-AU"
+city = "Naarm/Melbourne, Australia"
+
+[params.links]
+email = "oversr64@gmail.com"
+github = "https://www.github.com/robertovers"
+
+[module]
+[[module.imports]]
+path = "github.com/robertovers/salamander"

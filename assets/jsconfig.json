@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../../Library/Caches/hugo_cache/modules/filecache/modules/pkg/mod/github.com/robertovers/salamander@v0.2.0/assets/*"
+   ]
+  }
+ }
+}
