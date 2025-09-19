@@ -1,2 +1,2 @@
 # [robertovers.github.io](robertovers.github.io)
-my personal site
+My personal site built with [Hugo](https://gohugo.io/) and my own theme [salamander](https://github.com/robertovers/salamander).
