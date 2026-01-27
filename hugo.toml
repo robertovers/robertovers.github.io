@@ -13,6 +13,9 @@ longitude = 144.9631
 locale = "en-AU"
 city = "Naarm/Melbourne, Australia"
 
+[params.astronomy]
+knownNewMoon = "2026-02-02T09:09:00"
+
 [params.links]
 email = "oversr64@gmail.com"
 github = "https://www.github.com/robertovers"
