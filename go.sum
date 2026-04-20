@@ -2,3 +2,5 @@ github.com/robertovers/salamander v0.2.0 h1:gfWV3M7NF8J4/NjCtVQkboaY5tzPQ2EdUOQr
 github.com/robertovers/salamander v0.2.0/go.mod h1:8ktUK4sjiTZCT1PpXVNuqTMUBPef6Hly0ByYXcj7aDo=
 github.com/robertovers/salamander v0.3.0 h1:qHzWtYA83wtHBd20j8TtgLzIuHq90+ipqqNJfUvXWBM=
 github.com/robertovers/salamander v0.3.0/go.mod h1:8ktUK4sjiTZCT1PpXVNuqTMUBPef6Hly0ByYXcj7aDo=
+github.com/robertovers/salamander v0.3.1 h1:5jhHRM3ZqBCHbyuERWLtJxI21Ws887uDzRlovtZUZd8=
+github.com/robertovers/salamander v0.3.1/go.mod h1:8ktUK4sjiTZCT1PpXVNuqTMUBPef6Hly0ByYXcj7aDo=
