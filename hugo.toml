@@ -4,7 +4,7 @@ title = 'Robert Overs'
 
 [params.welcome]
 greeting = "Software / Data Engineer."
-message = "Currently building a better world of work at <a href='https://www.cultureamp.com/' style='color: #ae67b1' target='_blank'>Culture Amp</a>."
+message = "Currently building a better world of work at <a href='https://www.cultureamp.com/' style='color: #ae67b1; font-style: italic; font-family: Crimson Pro, sans-serif' target='_blank' onmouseover=\"this.style.color='#f5f5f5';this.style.backgroundColor='#ae67b1'\" onmouseout=\"this.style.color='#ae67b1';this.style.backgroundColor='transparent'\">Culture Amp</a>."
 
 [params.location]
 timezone = "Australia/Melbourne"
